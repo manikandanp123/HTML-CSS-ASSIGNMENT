@@ -1,7 +1,34 @@
 /* Our CSS file. */
 
 
-.container, .content {
+#container, .content {
 width: 100%;
 height: 100%;
 }
+
+.page-body {
+    margin:10px;
+    background:#F2F2F2;
+    width:90%;
+    height:400px;
+  }
+  .button-tab {
+    background:red;
+    color:yellow;
+  }
+  .left-side {
+    vertical-align:top;
+  }
+  .left-side,.right-side {
+    display:inline-block;
+    width:40%;
+  }
+  .render-dictionary,.render-wiki {
+    width:400px;
+    height:250px;
+  }
+
+  .button-tab {
+      height:30px;
+      width:100px;
+  }
