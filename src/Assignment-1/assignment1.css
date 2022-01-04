@@ -8,7 +8,7 @@ height: 100%;
 
 .row{
     display: block;
-    height: 50%;
+    height: 50%; 
     margin: 50px;
     align-items:center;
 }
@@ -29,3 +29,8 @@ height: 100%;
 .row,.col {
     text-align: center;
 }
+
+.row,.col {
+    text-align: center;
+}
+
