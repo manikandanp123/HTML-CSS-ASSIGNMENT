@@ -11,7 +11,9 @@
     .head-bottom {
       border-bottom:2px solid black;
     }
-    
+    a {
+      text-decoration: none;
+    }
     .full-page{
         border:2px solid black;
       }
@@ -38,6 +40,7 @@
         border:1px solid black;
         margin:4px;
         text-align:center;
+        background-color: lightgreen;
       }
       .tab nav ul li {
         display:inline-block;
@@ -68,6 +71,7 @@
       text-align:center;
       border:1px solid black;
       margin:4px 0px 4px 2px ;
+      background-color: lightpink;
       }
       #right-sidebar-menu,.middle-part {
       display:inline-block;
@@ -79,4 +83,5 @@
       padding:2px;
       color:red;
       width:99%;
+      background:yellow; 
       }
