@@ -22,14 +22,15 @@
     header nav {
         float: right;
     }
-    .headerReplacement {
+    .logo {
       float: left;
       text-indent: -9999px;
-      /* background: url("image/dog-icon-2.jpg") no-repeat; */
+      background: url("./image/dog-icon-1.png") no-repeat;
       height: 35px;
       width: 35px;
       margin-top: 8px;
       border-radius: 50%;
+      background-size: cover;
     }
     
     nav li {
